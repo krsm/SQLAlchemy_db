@@ -1,7 +1,7 @@
 # Import settings
 
 from sqlalchemy import Column, Integer, String
-from data_storage.database import Base
+from SQLAlchemy_db.database import Base
 
 import hashlib
 
